@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """The setup script."""
 import platform
 from os import path as op
